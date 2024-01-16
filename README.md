@@ -1,7 +1,7 @@
 # D-Lite-for-path-planning
 Using D* LIte for path planning
 
-1. D Lite。
+1. D Lite  
 Modify D* lite from https://github.com/zhm-real/PathPlanning/tree/master.  
 Which become support updating maps.
 
