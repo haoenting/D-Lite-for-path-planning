@@ -18,5 +18,5 @@ Try to change the start point to move to goal point.
 Fixing g value that should change in correct way.  
 And testing different obstacles' density.
 
-6. best
+6. best  
 Ideally the best path.
