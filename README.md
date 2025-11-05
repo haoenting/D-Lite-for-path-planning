@@ -20,5 +20,3 @@ And testing different obstacles' density.
 
 6. best  
 Ideally the best path.
-
-The videos : https://drive.google.com/drive/folders/1NDc7No4gutgPLR4XSndoBDAsWjuGYVht?usp=sharing
